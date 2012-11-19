@@ -1,0 +1,39 @@
+h1 {
+background:black;
+color: white;
+padding: 5px;
+}
+span {
+color: red;
+text-decoration: underline;
+}
+
+#text1 {
+background:gray;
+outline: 3px solid #666;
+outline-color:green;
+text-decoration: none;
+text-align:right;
+padding: 12px;
+}
+
+.center_text1
+{
+padding: 0px 100px 0px 100px;
+background-color:green;
+text-align:center;
+margin-left: 25%;
+margin-right:25%;
+border-top: dashed yellow;
+border-bottom: dashed yellow;
+color: yellow;
+}
+h4 {
+color: blue;
+}
+.Last_ul {
+background: black;
+color: orange;
+text-decoration: none;
+}
+
